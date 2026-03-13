@@ -23,7 +23,7 @@ Considera el uso de SQL para extraer data para ser analizada con Power BI.
 ## Modelo de datos Analítico
 Modelo basado en esquema estrella compuesto por:
 - **FactCustomerBase** Concentración de data historica por clientes. Considera fechas de primera y última venta, total de ordenes realizadas y valor monetario de ventas realizadas.
-- **FactCustomerMontly** Concentración de data de los clientes de los últimos 12 periodos (Cada periodo considera un mes, desde último periodo con ventas hacia atras). Considera fechas de primera y última venta, cantidad de ordenes y valor monetario total de ventas realizadas a cada cliente por cada periodo. 
+- **FactCustomerMonthly** Concentración de data de los clientes de los últimos 12 periodos (Cada periodo considera un mes, desde último periodo con ventas hacia atras). Considera fechas de primera y última venta, cantidad de ordenes y valor monetario del total de ventas realizadas a cada cliente por cada periodo. 
 - **DimCustomerRFM** Datos complementarios de clientes.
 - **DimTerritoryRFM** Datos complementarios de territorios geográficos. (Ubicación de los clientes)
 - **DimDateRFM** Datos complementarios de fechas de venta.
