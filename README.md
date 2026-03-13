@@ -47,7 +47,7 @@ Modelo basado en esquema estrella compuesto por:
 >Dentro del proyecto puede encontrar un archivo PDF con las páginas del informe de Power BI.
 
 <img width="1410" height="796" alt="image" src="https://github.com/user-attachments/assets/8232a6dd-90c8-4459-b478-2268431a89e9" />
-<img width="1414" height="794" alt="image" src="https://github.com/user-attachments/assets/5016c44a-0ba5-4a09-ae30-653b34cef90f" />
+<img width="1417" height="794" alt="image" src="https://github.com/user-attachments/assets/6181ef00-39d2-47e5-8eb8-389df684cc12" />
 <img width="1413" height="791" alt="image" src="https://github.com/user-attachments/assets/9ca3a80e-6aab-4c0b-a4de-613b42ffe201" />
 <img width="1408" height="790" alt="image" src="https://github.com/user-attachments/assets/a07d4a77-ab26-4c55-b88f-93ff84f9137c" />
 <img width="1412" height="795" alt="image" src="https://github.com/user-attachments/assets/c0804a49-fe19-47a1-a93f-e00ad8838e71" />
