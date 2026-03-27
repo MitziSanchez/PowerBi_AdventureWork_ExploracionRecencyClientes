@@ -39,7 +39,7 @@ Modelo basado en esquema estrella compuesto por:
 - Se genera página de análisis para recency histórica, se definen KPIs y se incorporan gráficas para visualizar la distribución de los clientes en base a las dos categorizaciones generadas. Estado y Score.
 - Se genera página de análisis centrado en clientes con estado de riesgo. Se definen KPIs y se incorporan gráficas para visibilizar la composición de los clientes en riesgo en base al score. Es decir, poder vislumbrar dentro del riesgo, cuantos clientes han comprado más recientemente que otros y el valor monetario que representan.
 - Se genera página de análisis basado en los registros del último año. Donde se compara con corte al último mes disponible y su mes anterior.
-- Se generan tablas auxiliares en Power Query para cálculo de recency y evaluación de estados y score para ambos períodos de corte y se únifican en una nueva tabla.
+- Se generan tablas auxiliares en Power Query para cálculo de recency y evaluación de estados y score para ambos períodos de corte y se unifican en una nueva tabla.
 - Se incorporan los estados de transición.
 - Se incorporan las siguientes gráficas en la página de transición de estados:
     - Gráfica para visualizar el comportamiento de los clientes en riesgo desde mes anterior al actual. Clientes en riesgo del período anterior + entrantes - salientes.
